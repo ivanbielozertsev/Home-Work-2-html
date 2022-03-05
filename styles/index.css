@@ -1,0 +1,18 @@
+table {
+  border: solid 1px #000000;
+  border-collapse: collapse;
+}
+
+caption {
+  margin: 4px;
+}
+
+th,
+td {
+  border: solid 1px #000000;
+  padding: 4px 8px;
+}
+
+td {
+  text-align: left;
+}
